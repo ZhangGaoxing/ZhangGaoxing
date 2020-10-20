@@ -26,6 +26,9 @@ Hi, I'm Zhang Yuexin, a C# programmer. My bachelor's degree is in computer scien
 ![arduino](https://img.shields.io/badge/-Arduino-00777D?style=flat&logo=arduino)
 ![rpi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)
 
+### ⌨ This Week I Spent My Time On
+![time](https://github-readme-stats.vercel.app/api/wakatime?username=ZhangGaoxing)
+
 ### 📊 GitHub Stats
 ![profile](https://github-readme-stats.vercel.app/api?username=ZhangGaoxing&count_private=true&show_icons=true)
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangGaoxing&layout=compact)
