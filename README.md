@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm [Zhang Yuexin](https://zhangyue.xin).
 
-Hi, I'm Zhang Yuexin, a C# programmer. My bachelor's degree is in computer science and technology, but I know a little bit about hardware and 3D modeling, and I like to build some cool things. Currently, I'm pursuing a master's degree in software engineering technology.
+Hi, I'm Zhang Yuexin, a .NET developer. My bachelor's degree is in computer science and technology, but I know a little bit about hardware and 3D modeling, and I like to build some cool things. Currently, I'm pursuing a master's degree in software engineering technology.
 
 - 🔭 I’m currently working on **social network analysis**
 - 🌱 I’m currently focusing on **R programming**
