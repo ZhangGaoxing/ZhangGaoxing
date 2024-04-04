@@ -1,9 +1,11 @@
 ### 👋 Hi there, I'm [Zhang Yuexin](https://zhangyue.xin).
 
-Hi, I'm Zhang Yuexin, a .NET developer. My bachelor's degree is in computer science and technology, but I know a little bit about hardware and 3D modeling, and I like to build some cool things. Currently, I'm pursuing a master's degree in software engineering technology.
+Hi, I'm Zhang Yuexin, a .NET developer. My bachelor's degree is in computer science and technology and my master's degree is in software engineering, but I know a little bit about hardware and 3D modeling, and I like to build some cool things. I'm currently working as a major course teacher at a college.
 
-- 🔭 I’m currently working on **social network analysis**
-- 🌱 I’m currently focusing on **R programming**
+- 👨‍🏫 I'm currently a **major course teacher**
+- 🤖 I'm currently focusing on **embedded programming**
+- 🔭 I used to work on social network analysis
+- 🌱 I used to focus on R programming
 - 💬 Ask me about anything [here](https://github.com/ZhangGaoxing/ZhangGaoxing/issues)
 - 📫 How to reach me: [zhangyuexin121@live.cn](mailto:zhangyuexin121@live.cn)
 
